@@ -1,0 +1,27 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2021-12-01T22:12:06Z",
+  "id": "your-first-pwapp",
+  "duration": 1,
+  "title": "Introducción a Google Colab",
+  "authors": "Google Developer Student Clubs UNI",
+  "summary": "En este codelab, conoceremos las funcionalidades que tiene Google Colab, desde utilizar comandos del terminal hasta el uso de datasets de Kaggle.",
+  "source": "1y8MugPz6flkm6MmkXw20WRjWOqb9Z92DS4QfyPdEkzs",
+  "theme": "web",
+  "status": [
+    "draft"
+  ],
+  "category": [
+    "web"
+  ],
+  "tags": [
+    "datascience.",
+    "googlecolab",
+    "python"
+  ],
+  "feedback": "https://github.com/googlecodelabs/your-first-pwapp/issues",
+  "url": "your-first-pwapp"
+}
